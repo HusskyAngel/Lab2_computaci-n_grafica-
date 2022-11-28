@@ -7,11 +7,9 @@ class App():
 
         self.window.resizable(False,False)
         self.window.title('Discretization algorithms')
-        self.window.geometry("700x500+10+10")
+        self.window.geometry("700x380+10+10")
 
 
-        self.window.columnconfigure(0,weight=8)
-        self.window.rowconfigure(0,weight=3)
 
         #draw lines
         line_title=tk.Label(self.window,text="Draw line")
@@ -81,6 +79,7 @@ class App():
         try:
             start_point=(int(start_point[0]),int(start_point[1]))
             finish_point=(int(finish_point[0]),int(finish_point[1]))
+            print(algorithm)
             print("yei")
         except:
             messagebox.showerror(title="error",message="fill all fields or type only integers",parent=self.window)
