@@ -22,15 +22,15 @@ Este proyecto fue desarrollado en python 3.10.8, para el despliegue se recomiend
 
 ## Uso
 
-Hay que rellenar los campos, seleccionar el algoritmo y darle a graph.
+Hay que rellenar los campos, seleccionar el algoritmo y darle a graph.<br>
 
 
-<img src="https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/1.png" width="600">
+<img src="https://raw.githubusercontent.com/HusskyAngel/Lab2_computaci-n_grafica-/main/images/1.png" >
 
 ## ejemplos
 
-dibujando lineas
-<img  src="https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/2.png" width="600">
-dibujando circulos
-<img  src="https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/3.png" width="600">
+dibujando lineas <br>
+<img  src="https://raw.githubusercontent.com/HusskyAngel/Lab2_computaci-n_grafica-/main/images/2.png" >
+dibujando circulos<br>
+<img  src="https://raw.githubusercontent.com/HusskyAngel/Lab2_computaci-n_grafica-/main/images/3.png" >
 
