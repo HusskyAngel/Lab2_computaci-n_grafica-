@@ -29,7 +29,7 @@ Hay que rellenar los campos, seleccionar el algoritmo y darle a graph.
 ## ejemplos
 
 dibujando lineas
-![App Screenshot](https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/2.png)
+![alt text](https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/2.png)
 dibujando circulos
-![App Screenshot](https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/3.png)
+![alt text](https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/3.png)
 
