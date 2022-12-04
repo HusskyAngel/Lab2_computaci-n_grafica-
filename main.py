@@ -1,5 +1,4 @@
 import graphics
-from lines import DiscretizationLines
 
 if __name__=="__main__":
     app=graphics.App()

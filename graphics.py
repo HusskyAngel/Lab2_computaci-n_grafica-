@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 from  lines import DiscretizationLines
+from circle import DiscretizationCircles
 from plot import Plot
 
 class App():
@@ -121,7 +122,7 @@ class App():
         text_r.grid(row=1,column=2,padx=30 ,pady=5)
 
         #list box
-        alg=("basic","bresenham")
+        alg=("mid point","bresenham")
         list_algorithms=tk.Listbox(frame,listvariable=tk.Variable(value=alg),width=14,height=5)
         list_algorithms.grid(row=1,column=4,padx=10 ,pady=5)
 
@@ -135,17 +136,16 @@ class App():
 
     def __sendInfoCircles(self,algorithm:str,points:tuple):
         start_point,radius=points
-        print(algorithm)
+        print(points)
         
         try:
+            radius=int(radius)
             start_point=(int(start_point[0]),int(start_point[1]))
-            print(start_point)
-            print(radius)
             points_p:list=[]
             if algorithm==(0,):
-                points_p=DiscretizationLines.basicAlgorithm(start_point,radius)
+                points_p=DiscretizationCircles.midPointAlgorithm(start_point[0],start_point[1],radius)
             else:
-                points_p=DiscretizationLines.bresenhamsAlgorithm(start_point,radius)
+                points_p=DiscretizationCircles.bresenhamAlgorithm(start_point[0],start_point[1],radius)
             print(points_p)
             Plot.draw(points_p)
         except:
