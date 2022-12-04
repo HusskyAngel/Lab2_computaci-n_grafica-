@@ -12,11 +12,18 @@ Este proyecto fue desarrollado en python 3.10.8, para el despliegue se recomiend
 ```bash
   git clone https://github.com/HusskyAngel/Lab2_computaci-n_grafica-
   cd Lab2_computaci-n_grafica-
-  pip install requirements.txt
+  pip install -r requirements.txt
   python main.py
 ```
 
 
+
+<div align="center">
+  <a href="https://github.com/jeffreytse/zsh-vi-mode">
+    <img alt="vi-mode →~ zsh" src="https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/1.png" width="600">
+  </a>
+
+</div>
 
 
 ## Uso
