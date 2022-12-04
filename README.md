@@ -23,13 +23,13 @@ Este proyecto fue desarrollado en python 3.10.8, para el despliegue se recomiend
 
 Hay que rellenar los campos, seleccionar el algoritmo y darle a graph.
 
-![App Screenshot](https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/1.png)
+![](https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/1.png)
 
 
 ## ejemplos
 
 dibujando lineas
-![alt text](https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/2.png)
+![](https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/2.png)
 dibujando circulos
-![alt text](https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/3.png)
+![](https://github.com/HusskyAngel/Lab2_computaci-n_grafica-/tree/main/images/3.png)
 
