@@ -31,6 +31,7 @@ Hay que rellenar los campos, seleccionar el algoritmo y darle a graph.<br>
 
 dibujando lineas <br>
 <img  src="https://raw.githubusercontent.com/HusskyAngel/Lab2_computaci-n_grafica-/main/images/2.png" >
+<br>
 dibujando circulos<br>
 <img  src="https://raw.githubusercontent.com/HusskyAngel/Lab2_computaci-n_grafica-/main/images/3.png" >
 
